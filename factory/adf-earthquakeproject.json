@@ -1,0 +1,9 @@
+{
+	"name": "adf-earthquakeproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "11fff6e1-387e-4915-80fa-fd28bb505299",
+		"tenantId": "fc8c872c-1d7d-48d7-af86-7f92fff1cc73"
+	}
+}
